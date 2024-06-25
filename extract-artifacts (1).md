@@ -16,7 +16,7 @@ Before proceeding with the extraction process, ensure that you have the necessar
 
 **Home Screen:** Navigate to the home screen of the platform.
 
-![Home screen](./testScreenshot1.png)
+![Just the alt-text](./testScreenshot1.png)
 
 **Select File:** Find and click on the file you wish to extract artifacts from. You can locate files under the "Recent Models" section on the homepage or by going to the "All Models" page. This will open the overview page of the file.
 
